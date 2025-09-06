@@ -7,9 +7,9 @@ This guide showcases practical ways to use **Copilot** as an assistant in your d
 ## ✍️ Use Case #1: Using Copilot as Your Editing Assistant  
 
 **Prompt to try:**
-```text
+
 Review the provided content for grammar, spelling, readability, and professional tone. Rewrite the improved version and list each change made, along with the reasoning, to help me enhance my writing skills. Begin by asking me for the content to be reviewed.
-```
+
 
 💡 **Pro Tip:** Open your Outlook **Sent Items** folder, then copy and paste a recent email you’ve sent to test this out.
 
@@ -23,9 +23,9 @@ Review the provided content for grammar, spelling, readability, and professional
 ## 📄 Use Case #2: Using Copilot as Your Document Collaboration Partner  
 
 **Prompt to try:**
-```text
+
 Review the attached document and recap it as if you're summarizing for a busy colleague. Highlight the main points, themes, and actionable insights. Call out any surprising data or fun fact. End with one suggested next step or a question to spark team discussion.
-```
+
 
 💡 **Pro Tip:** Attach any of your own documents to try this out.
 
@@ -39,9 +39,9 @@ Review the attached document and recap it as if you're summarizing for a busy co
 ## 📊 Use Case #3: Using Copilot as Your Data Analyst  
 
 **Prompt to try:**
-```text
+
 Analyze the provided spreadsheet to identify key insights, themes, and actionable information. Highlight any notable data points, conclusions, or recommendations clearly and concisely. Begin by asking me for the spreadsheet and any specific areas or questions to focus on.
-```
+
 
 💡 **Pro Tip:** Upload an Excel spreadsheet to try this out.
 
